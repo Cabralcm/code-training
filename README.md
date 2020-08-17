@@ -5,7 +5,7 @@ For additional CS/ML/Stats/Computing resources, see: **[Learning Repository]**(h
 
 ## Practical Coding Courses
 
-**[Clean Code - Uncle Bob]**(https://www.youtube.com/watch?v=7EmboKQH8lM)
+[**Clean Code - Uncle Bob**](https://www.youtube.com/watch?v=7EmboKQH8lM)
 - [Clean Code Book](https://github.com/SaikrishnaReddy1919/MyBooks/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 
 **[Full Stack Open]**(https://fullstackopen.com/en)
