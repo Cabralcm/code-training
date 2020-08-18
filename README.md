@@ -3,7 +3,7 @@ Repository of courses to complete to be competent SWE and coder. Also covers ass
 
 For additional CS/ML/Stats/Computing resources, see: **[Learning Repository]**(https://github.com/Cabralcm/Learning/blob/master/README.md)
 
-## Practical Coding Courses
+## Practical Coding
 
 [**Clean Code - Uncle Bob**](https://www.youtube.com/watch?v=7EmboKQH8lM)
 - [**Clean Code Book**](https://github.com/SaikrishnaReddy1919/MyBooks/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
