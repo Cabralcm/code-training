@@ -138,3 +138,88 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 [Full Stack with React](https://www.coursera.org/specializations/full-stack-react)
 
 [Full Stack Open](https://fullstackopen.com/en)
+
+## MIT OCW Courses
+
+### MIT Algorithms 
+
+1) [MIT - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+
+2) [MIT - Design and Analyis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+- Lecture 3 - FFT - Divide and Conquer Algorithms
+
+3) [MIT - Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
+
+## Other MIT Courses
+
+[Introduction to Computational Thinking and Data Science - John  Gutteg]
+
+[MIT 6.001 - Structure and Interpretation of Computer Programs (Harold Abelson, Gerald Jay Sussman)]
+
+[MIT 6.042J - Mathematics for Computer Science]
+
+[**MIT 18.06 - Linear Algebra**]
+
+[**MIT 18.06SC - Linear Algebra**]
+
+[**MIT 18.065 - Matrix Methods in Data Analysis, Signal Processing and Machine Learning - Gilbert Strang**]
+
+[MIT 18.03 - Differential Equations]
+
+[MIT 6.041 - Probabistic Systems - Analysis and Applied Probability (or MIT 6.041SC)]
+
+[MIT 2.087 - Engineering Mathematics - Linear Algebra and ODEs[
+
+[MIT 18.03SC - Differential Equations]
+
+[MIT 18.650 - Statistics for Applications - PCA, MLE]
+
+[MIT 6.S191 - Introduction to Deep Learning]
+
+[**MIT 18.S096 - Topics in Mathematics with Applications for Finance**]
+
+[David MacKay - Information Theory, Pattern Recognition, Neural Networks]
+
+[Raymond Yeung CHHK) - Information Theory Course]
+
+[Introduction to Information Theory - Complexity Explorer]
+
+[MIT 15.401 - Finance Theory 1]
+
+[MIT 18.065 - Mathematical Methods for Engineers I (Computational Science and Engineering I)]
+
+[MIT 18.086 - Mathematical Methods for Engineers II]
+
+[MIT - 18.02 - Vector Calculus / Multivariable Calculus]
+
+[MIT 18.02SC- HW Help for Multivariable Calculus]
+
+[Control Systems Engineering - Benjamin Drew - UFMEUY-20-3 (UWE Bristol)]
+
+[DSP - Allen Downey - Python](https://www.youtube.com/watch?v=SrJq2AzXZME)
+
+[DSP - ECSE-4530  Rich Radke, Rensselaer Polytechnic Institute](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
+
+[DSP, Control, ML - Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
+
+[DSP, Numerical Methods, Kernel Methods, ML - Barry Van Veen](https://www.youtube.com/user/allsignalprocessing)
+
+
+## TO-DO
+
+- Matrix Methods (Eigenvalues, Eigenvectors, SVD Decomp, UV Decomp, Linear Programming)
+- Advanced Matrix Methods for Computation
+- Real Analysis (& Proofs)
+- Complex Analysis
+- Optimization (I and II)
+- Convex Optimization
+- State Estimation
+- Filters (Kalman)
+- Computer Vision and Image Processing
+- Numerical Methods
+- Calculus 1,2,3 and 4
+- Partial Differential Equations
+- Signals and Systems
+- Digital Signal Processing
+- Communication Systems and Information Theory
+- Control Systems (EE 4CL3, EE4CL4)
