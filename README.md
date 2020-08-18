@@ -21,7 +21,7 @@ For additional CS/ML/Stats/Computing resources, see: **[Learning Repository]**(h
 
 [**Unix Shell**](https://www.youtube.com/watch?v=U3iNcBtycaQ&list=PLUQy4zfrctjH-FsjpIZDZ0NBznvF4FdNP)
 
-[UNIX](https://www.coursera.org/learn/unix)
+[UNIX - Cousera Course](https://www.coursera.org/learn/unix)
 
 [**MIT - Missing Semseter**](https://missing.csail.mit.edu/)
 
