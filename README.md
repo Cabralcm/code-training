@@ -29,6 +29,8 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 [Data Science Open](http://datasciencemasters.org/)
 
+[Complexity Explorer - Santa Fe Institute](https://www.complexityexplorer.org/)
+
 ## ML/AI/DL Courses
 
 [**fast.ai**](fast.ai)
@@ -131,7 +133,12 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 [U Washington (Jeff Bilmes)](https://www.youtube.com/watch?v=EwmZEbVIhIU&list=PLHId6J59GMKsubhxP4BptaHeFD6_ZzXNO)
 - [U Washington](https://class.ece.uw.edu/514/bilmes/ee514_fall_2019/)
 
-[Information Theory - David MacKay](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+
+[Introduction to Information Theory - Complexity Explorer](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory)
+
+[Introduction to Complexity](https://www.complexityexplorer.org/courses/104-introduction-to-complexity)
+
+[Information Theory, Pattern Recognition, Neural Networks - David MacKay](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
 
 [Information Theory - Mathematical Monk](https://www.youtube.com/watch?v=UrefKMSEuAI&list=PLE125425EC837021F)
 
@@ -193,11 +200,6 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 [MIT - Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
 - [L21.3 - Stochstic Processes](https://www.youtube.com/watch?v=JYI5xKlH_MU)
 
-[David MacKay - Information Theory, Pattern Recognition, Neural Networks]
-
-[Raymond Yeung CHHK) - Information Theory Course]
-
-[Introduction to Information Theory - Complexity Explorer]
 
 [MIT 15.401 - Finance Theory 1]
 
