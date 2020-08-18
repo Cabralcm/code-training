@@ -1,7 +1,7 @@
 # code-training
 Repository of courses to complete to be competent SWE and coder. Also covers assortment of: ML/DL/DS/AI, Computer Networking, DSA, and other CS courses.
 
-For additional CS/ML/Stats/Computing resources, see: **[Learning Repository]**(https://github.com/Cabralcm/Learning/blob/master/README.md)
+For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](https://github.com/Cabralcm/Learning/blob/master/README.md)
 
 ## Practical Coding
 
