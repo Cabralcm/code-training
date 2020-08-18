@@ -3,6 +3,8 @@ Repository of courses to complete to be competent SWE and coder. Also covers ass
 
 For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](https://github.com/Cabralcm/Learning/blob/master/README.md)
 
+[Graduate Courses in ECE (McMaster)](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=37&poid=19938)
+
 ## Practical Coding
 
 [**Clean Code - Uncle Bob**](https://www.youtube.com/watch?v=7EmboKQH8lM)
@@ -62,6 +64,10 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 - [MMDS - Course Website](http://www.mmds.org/)
 
 [Stanford - Statistical Learning](https://www.edx.org/course/statistical-learning)
+
+[Stanford Cryptography I] 
+
+[Stanford Cryptography II]
 
 
 ## Data Science
@@ -143,12 +149,12 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 ### MIT Algorithms 
 
-1) [MIT - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+1) [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
-2) [MIT - Design and Analyis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+2) [MIT 6.046J - Design and Analyis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 - Lecture 3 - FFT - Divide and Conquer Algorithms
 
-3) [MIT - Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
+3) [MIT 6.854J - Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 
 ## Other MIT Courses
 
@@ -177,6 +183,15 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 [MIT 6.S191 - Introduction to Deep Learning]
 
 [**MIT 18.S096 - Topics in Mathematics with Applications for Finance**]
+-[Stochastic Processes](https://www.youtube.com/watch?v=TuTmC8aOQJE)
+-[Stochastic Processes II](https://www.youtube.com/watch?v=PPl-7_RL0Ko)
+
+[Stochastic Processes - IIT Madras](https://www.youtube.com/watch?v=FWe5uk5NA5I)
+
+[Non-Linear Dynamical Systems - IIT Bombay](https://www.youtube.com/watch?v=060INy3vHcw&list=PLbMVogVj5nJTWGLf42BxjQW7wlje4203y)
+
+[MIT - Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
+- [L21.3 - Stochstic Processes](https://www.youtube.com/watch?v=JYI5xKlH_MU)
 
 [David MacKay - Information Theory, Pattern Recognition, Neural Networks]
 
@@ -196,16 +211,51 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 [Control Systems Engineering - Benjamin Drew - UFMEUY-20-3 (UWE Bristol)]
 
+[MIT 6.003 - Signals and Systems]
+
+[Introduction to Real Analysis - Bill Kinney]
+
+[Introduction to Functional Analysis - Ecole Central - Coursera]
+
+[Numerical Analysis Stanford]
+
+[NPTELHRD - Mathematics - Real Analysis - YT Channel]
+- [NPTELHRD Website](nptel.ac.in)
+
+[MIT 6.034 - Artifical Intelligence]
+- Pre-req: MIT 6.01, 18.02
+
+[MIT 6.867 - Machine Learning]
+- [MIT 6.867 Machine Learning - Fall 2004](http://www.ai.mit.edu/courses/6.867-f04/)
+
+[MIT 18.100C - Real Analysis (A/B/C) - A = Easy, B = Med, C = Hard]
+
 [DSP - Allen Downey - Python](https://www.youtube.com/watch?v=SrJq2AzXZME)
 
 [DSP - ECSE-4530  Rich Radke, Rensselaer Polytechnic Institute](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
 
 [DSP, Control, ML - Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
 
-[DSP, Numerical Methods, Kernel Methods, ML - Barry Van Veen](https://www.youtube.com/user/allsignalprocessing)
+[Kernel Methods, DSP, Numerical Methods, ML - Barry Van Veen](https://www.youtube.com/user/allsignalprocessing)
 
+## UConn HKN
+
+[UConn HKN](https://www.youtube.com/channel/UCOiXKcAXzVtFe3tK4IpOQXg)
+
+[UConn HKN - Signal Space](https://www.youtube.com/watch?v=x0p8cMJMtW8)
 
 ## TO-DO
+
+[Real Analysis - Harvey Mudd College - Francis Su]
+
+| Real Analysis Book | Author |
+|---|---|
+|Introduction to Real Analysis | Bartle & Sherbert |
+|Understanding Analysis | Stephen Abbott|
+|Principles of Mathematical Analysis | Walter Rudin |
+| Analysis I | Terrance Tao|
+| A Friendly Introduction to Analysis | Witold A.J. Kosmala |
+| Problems in Mathematical Analysis - Vol. 1, 2, and 3 | Vol. 1 Easy, Vol 3 Difficult  |
 
 - Matrix Methods (Eigenvalues, Eigenvectors, SVD Decomp, UV Decomp, Linear Programming)
 - Advanced Matrix Methods for Computation
