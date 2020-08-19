@@ -31,6 +31,10 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 [Complexity Explorer - Santa Fe Institute](https://www.complexityexplorer.org/)
 
+[CalTech]
+- [Learning From Data](http://amlbook.com/)
+- 
+
 ## ML/AI/DL Courses
 
 [**fast.ai**](fast.ai)
@@ -66,6 +70,23 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 - [MMDS - Course Website](http://www.mmds.org/)
 
 [Stanford - Statistical Learning](https://www.edx.org/course/statistical-learning)
+
+## UWaterloo
+
+[Pascal Poupart](https://www.youtube.com/channel/UC7ZVvEo7-B7lA6LY2MVX72A/playlists)
+
+[Yaoliang Yu - ML, Stats, Optimization](https://cs.uwaterloo.ca/~y328yu/)
+- [Computational Linear Algebra and other courses](https://cs.uwaterloo.ca/~y328yu/mycourses/)
+
+[Douglas Wilhelm Harder](https://ece.uwaterloo.ca/~dwharder/)
+
+[Intro to Machine Learning - 2019](https://www.youtube.com/watch?v=GouhgbE5gPk&list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)
+
+[Reinforcement Learning 2020](https://www.youtube.com/playlist?list=PLdAoL1zKcqTUcyfWgzKuTMf-mbiopsKLh)
+
+[Reinforcement Learning - 2018](https://www.youtube.com/watch?v=xoxz-OmcL1Q&list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
+
+## Stanford
 
 [Stanford Cryptography I] 
 
