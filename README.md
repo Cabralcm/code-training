@@ -86,6 +86,10 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 [Reinforcement Learning - 2018](https://www.youtube.com/watch?v=xoxz-OmcL1Q&list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
 
+# Bloomberg
+
+[Bloomberg ML](https://bloomberg.github.io/foml/#about)
+
 ## Stanford
 
 [Stanford Cryptography I] 
