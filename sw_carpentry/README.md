@@ -9,6 +9,11 @@
 - Plotting and Programming with Python
 - Programming with R
 - R for Reproducible Scientific Analysis
+- Automation and Make
+- Programming with MATLAB
+- Using Databases and SQL
+
+[Software Carpentry Advanced Lessons](https://carpentries.org/community-lessons/)
 
 # Youtube Lectures 
 
