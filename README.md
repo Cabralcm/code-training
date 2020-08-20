@@ -32,7 +32,7 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 [Complexity Explorer - Santa Fe Institute](https://www.complexityexplorer.org/)
 
 [CalTech](http://online.caltech.edu/)
-- [Learning From Data](http://amlbook.com/)
+-[Learning From Data](http://amlbook.com/)
 -[Chris Umans](http://users.cms.caltech.edu/~umans/cs151/)
 
 ## ML/AI/DL Courses
