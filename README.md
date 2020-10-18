@@ -187,6 +187,8 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 - Lecture 3 - FFT - Divide and Conquer Algorithms
 
 3) [MIT 6.854J - Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
+- [2016 Course  - Course Website](http://people.csail.mit.edu/moitra/854.html)
+- [2016 Course - Youtube Playlist](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
 
 ## Other MIT Courses
 
