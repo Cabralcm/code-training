@@ -151,13 +151,22 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 [C++ Fundamentals](https://www.coursera.org/specializations/cs-fundamentals)
 
+## DSP
+
+[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+
+[Linear Algebra 2011](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
+
+[Linear Algebra 2005](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL1C2ABAE35DE06898)
+
+[Differential Equations](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
+
 ## Information Theory
 
 [Information Theory - Raymong Yeung](https://www.youtube.com/watch?v=06KNVBmY0eg&list=PLZDU8a6AcnuixlMLNuqvQSS7PDUK8pZmO)
 
 [U Washington (Jeff Bilmes)](https://www.youtube.com/watch?v=EwmZEbVIhIU&list=PLHId6J59GMKsubhxP4BptaHeFD6_ZzXNO)
 - [U Washington](https://class.ece.uw.edu/514/bilmes/ee514_fall_2019/)
-
 
 [Introduction to Information Theory - Complexity Explorer](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory)
 
@@ -171,6 +180,8 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 [Stanford Information Theory](https://www.youtube.com/playlist?list=PLv_7iO_xlL0Kz2nU05COpINjU8C0UPICA)
 
+[MIT Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2016/lecture-notes/)
+
 ## Full Stack
 
 [Full Stack with React](https://www.coursera.org/specializations/full-stack-react)
@@ -179,6 +190,23 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 ## MIT OCW Courses
 
+### Financial Applications for Mathematics
+
+1) [Discrete Stochastic Processes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
+  -[Youtube Playlist](https://www.youtube.com/watch?v=7CYXy9J4Aao&list=PLEEF5322B331C1B98)
+
+- [18.S096 - Topics in Mathematics with Applications in Finance ](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
+- [Stochastic Processes]
+
+[MIT 15.401 Finance Theory I, Fall 2008](https://www.youtube.com/watch?v=HdHlfiOAJyE&list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW)
+- https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/
+
+-[Finance Theory II](https://ocw.mit.edu/courses/sloan-school-of-management/15-402-finance-theory-ii-spring-2003/)
+
+-[Analytics of Finance](https://ocw.mit.edu/courses/sloan-school-of-management/15-450-analytics-of-finance-fall-2010/)
+
+-[Investments](https://ocw.mit.edu/courses/sloan-school-of-management/15-433-investments-spring-2003/)
 ### MIT Algorithms 
 
 1) [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
