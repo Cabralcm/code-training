@@ -163,6 +163,9 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 [Identification, Estimation, and Learning](https://ocw.mit.edu/courses/mechanical-engineering/2-160-identification-estimation-and-learning-spring-2006/index.htm)
 
+[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
+- MLE Estimation
+
 ## Information Theory
 
 [Information Theory - Raymong Yeung](https://www.youtube.com/watch?v=06KNVBmY0eg&list=PLZDU8a6AcnuixlMLNuqvQSS7PDUK8pZmO)
