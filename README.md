@@ -161,6 +161,8 @@ For additional CS/ML/Stats/Computing resources, see: [**Learning Repository**](h
 
 [Differential Equations](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
 
+[Identification, Estimation, and Learning](https://ocw.mit.edu/courses/mechanical-engineering/2-160-identification-estimation-and-learning-spring-2006/index.htm)
+
 ## Information Theory
 
 [Information Theory - Raymong Yeung](https://www.youtube.com/watch?v=06KNVBmY0eg&list=PLZDU8a6AcnuixlMLNuqvQSS7PDUK8pZmO)
